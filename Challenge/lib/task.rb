@@ -13,6 +13,6 @@ class Task
     end
   
     def complete?
-      return @complete
+      @complete
     end
   end
